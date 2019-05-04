@@ -1,0 +1,6 @@
+*.o
+.ccls-cache/
+*.out
+main
+mainram
+*.a
